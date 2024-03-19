@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1710857607 source:c:\users\hamza\desktop\todolist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1710848455 c:\users\hamza\desktop\todolist\fonction.h
+
+1710858063 source:c:\users\hamza\desktop\todolist\fonction.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
